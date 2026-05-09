@@ -1,0 +1,2 @@
+# Caravee Notes Tauri App
+
